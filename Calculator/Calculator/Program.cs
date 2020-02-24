@@ -12,7 +12,7 @@ namespace Calculator
         {
             //Update From GitHub
             int sum = addNumbers(10 , 12);
-            Console.WriteLine("Sum of Number "+sum);
+            Console.WriteLine("Sum of Numbers "+sum);
             Console.ReadLine();
         }
 
